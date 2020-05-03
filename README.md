@@ -1,4 +1,4 @@
-# TOHacks-Hackathon---Covid-19
+# TOHacks-Hackathon Covid-19
 
 
 <img src="https://media.giphy.com/media/Y1Rd5VzoPX01tx45tb/giphy.gif"/>
