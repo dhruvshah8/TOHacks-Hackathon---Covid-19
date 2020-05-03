@@ -2,6 +2,9 @@
 
 <a href="https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb"> <img src = "https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb" /> </a> 
 
+<img src="https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb " width="40" height="40" />
+
+
 ## Inspiration
 As public health officials repeatedly advise people to stop touching their faces in order to protect themselves against the new coronavirus, many individuals are starting to notice how often they do it and how difficult it is to stop.
 
