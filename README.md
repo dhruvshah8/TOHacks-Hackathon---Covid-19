@@ -1,6 +1,5 @@
 # TOHacks-Hackathon---Covid-19
 
-<a href="https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb"> <img src = "https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb" /> </a> 
 
 <img src="https://media.giphy.com/media/Y1Rd5VzoPX01tx45tb/giphy.gif"/>
 
