@@ -2,7 +2,7 @@
 
 <a href="https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb"> <img src = "https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb" /> </a> 
 
-<img src="https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb " width="40" height="40" />
+<img src="https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb/html5" width="40" height="40" />
 
 
 ## Inspiration
