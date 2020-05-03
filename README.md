@@ -1,6 +1,6 @@
 # TOHacks-Hackathon---Covid-19
 
-<iframe src="https://giphy.com/embed/Y1Rd5VzoPX01tx45tb" width="480" height="226" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb">via GIPHY</a></p> 
+<a href="https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb"> <img src = "https://giphy.com/gifs/Y1Rd5VzoPX01tx45tb" /> </a> 
 
 ## Inspiration
 As public health officials repeatedly advise people to stop touching their faces in order to protect themselves against the new coronavirus, many individuals are starting to notice how often they do it and how difficult it is to stop.
